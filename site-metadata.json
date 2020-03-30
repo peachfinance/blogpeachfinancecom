@@ -5,17 +5,11 @@
   "header": {
     "title": "Ampersand",
     "logo_img": "/images/peach-logo.png",
-    "has_nav": true
+    "has_nav": false
   },
   "footer": {
     "content": "&copy; All rights reserved.",
-    "links": [
-      {
-        "text": "Made with Stackbit",
-        "url": "https://www.stackbit.com",
-        "new_window": true
-      }
-    ],
+    "links": [],
     "has_social": true
   }
 }
