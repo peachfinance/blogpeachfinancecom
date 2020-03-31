@@ -3,7 +3,7 @@ title: >-
   COVID-19 Part 2 - How to Prepare Your Servicing Operation for a Post-Pandemic
   World
 date: 2020-03-31T05:50:15.971Z
-thumb_img_path: /images/callcentre.jpg
+thumb_img_path: ''
 excerpt: >-
   The recent COVID-19 outbreak has transformed call centers into potential
   transmission zones, creating health risks for workers. Regardless of whether
