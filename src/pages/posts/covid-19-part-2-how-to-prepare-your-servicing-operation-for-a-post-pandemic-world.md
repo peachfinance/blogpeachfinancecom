@@ -4,6 +4,12 @@ title: >-
   World
 date: 2020-03-31T05:50:15.971Z
 thumb_img_path: /images/callcentre.jpg
+excerpt: >-
+  The recent COVID-19 outbreak has transformed call centers into potential
+  transmission zones, creating health risks for workers. Regardless of whether
+  states allow call centers to remain open, we believe all lenders need to be
+  able to quickly shift servicing operations to remote work to protect the
+  health and safety of their employees—and to ensure business continuity.
 template: post
 ---
 ### How to Prepare Your Servicing Operation for a Post-Pandemic World
