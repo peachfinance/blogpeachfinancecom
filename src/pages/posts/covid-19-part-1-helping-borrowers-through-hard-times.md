@@ -2,6 +2,12 @@
 title: 'COVID-19 Part 1: Helping Borrowers Through Hard Times'
 date: 2020-03-30T22:08:04.753Z
 thumb_img_path: /images/8163895040_f57a5d918a_b.jpg
+excerpt: >-
+  The COVID-19 public health crisis has created unprecedented challenges for
+  borrowers and lenders alike. This post focuses on how lenders can leverage
+  Peach’s solution to help borrowers in times of emergency and financial
+  hardship. Peach’s solution gives lenders various ways to handle hardships and
+  loan modifications
 template: post
 ---
 ### Helping Borrowers Through Hard Times
@@ -10,7 +16,7 @@ The COVID-19 public health crisis has created unprecedented challenges for borro
 
 ### What Borrowers Need
 
-The full economic impact of COVID-19 on the economy is uncertain. But in the past few weeks, millions of workers have lost their jobs and small businesses are running out of capital. The government is racing to send checks to households, extend[loans to small businesses](https://www.inc.com/brit-morse/sba-loans-coronavirus-stimulus-package-cares-act.html), and encourage banks to start offering[responsible small dollar loans](https://news.bloomberglaw.com/banking-law/bank-regulators-urge-small-dollar-lending-in-covid-19-crisis)to consumers.
+The full economic impact of COVID-19 on the economy is uncertain. But in the past few weeks, millions of workers have lost their jobs and small businesses are running out of capital. The government is racing to send checks to households, extend [loans to small businesses](https://www.inc.com/brit-morse/sba-loans-coronavirus-stimulus-package-cares-act.html), and encourage banks to start offering [responsible small dollar loans](https://news.bloomberglaw.com/banking-law/bank-regulators-urge-small-dollar-lending-in-covid-19-crisis) to consumers.
 
 As economic conditions deteriorate and borrower delinquencies increase, lenders need powerful tools to provide borrowers with flexible payment plans and loan modification options.
 
