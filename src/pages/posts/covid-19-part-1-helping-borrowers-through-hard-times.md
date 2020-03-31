@@ -1,7 +1,7 @@
 ---
 title: 'COVID-19 Part 1: Helping Borrowers Through Hard Times'
 date: 2020-03-23T22:08:04.753Z
-thumb_img_path: /images/8163895040_f57a5d918a_b.jpg
+thumb_img_path: ''
 excerpt: >-
   The COVID-19 public health crisis has created unprecedented challenges for
   borrowers and lenders alike. This post focuses on how lenders can leverage
