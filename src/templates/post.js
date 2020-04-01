@@ -8,10 +8,11 @@ import {htmlToReact, safePrefix} from '../utils';
 export default class Post extends React.Component {
     render() {
         return (
-            <Layout {...this.props}>
+            <Layout {...this.props}>              
               <article className="post post-full">
                 <header className="post-header">
                   <div className="post-meta">
+                    <div class="back-link"><a href="/">&lt; BACK</a></div>
                     <time className="published"
                       dateTime={moment(_.get(this.props, 'pageContext.frontmatter.date')).strftime('%Y-%m-%d %H:%M')}>{moment(_.get(this.props, 'pageContext.frontmatter.date')).strftime('%A, %B %e, %Y')}</time>
                   </div>
@@ -29,7 +30,9 @@ export default class Post extends React.Component {
                 }
                 <div className="post-content">
                   {htmlToReact(_.get(this.props, 'pageContext.html'))}
-                </div>
+
+                  <div class="back-link"><a href="/">&lt; BACK</a></div>
+                </div>                
               </article>
             </Layout>
         );
