@@ -14,7 +14,7 @@ template: post
 ---
 ### How to Prepare Your Servicing Operation for a Post-Pandemic World
 
-The dual public health and financial crises set off by COVID-19 has created unforeseen challenges for both borrowers and lenders. In a [previous post](https://blogpeachfinancecom.netlify.com/posts/covid-19-part-1-helping-borrowers-through-hard-times/), we highlighted how Peach’s modern loan servicing platform can provide flexible payment plans and loan modification options to borrowers in times of emergency. In this post, we’ll address the challenges lenders face in converting servicing call centers to remote-work operations—and how Peach’s software solutions can make this transition easy.
+The dual public health and financial crises set off by COVID-19 has created unforeseen challenges for both borrowers and lenders. In a [previous post](https://blog.peachfinance.com/posts/covid-19-part-1-helping-borrowers-through-hard-times/), we highlighted how Peach’s modern loan servicing platform can provide flexible payment plans and loan modification options to borrowers in times of emergency. In this post, we’ll address the challenges lenders face in converting servicing call centers to remote-work operations—and how Peach’s software solutions can make this transition easy.
 
 #### The Challenges of Remote Work
 
