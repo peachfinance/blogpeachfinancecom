@@ -9,7 +9,7 @@ import Layout from './Layout';
 export {
     Footer,
     Header,
-    Intro,
+//    Intro,
     Social,
     Subscribe,
     SubscribeForm,
@@ -19,7 +19,7 @@ export {
 export default {
     Footer,
     Header,
-    Intro,
+//    Intro,
     Social,
     Subscribe,
     SubscribeForm,
