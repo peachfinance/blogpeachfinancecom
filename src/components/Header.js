@@ -12,7 +12,7 @@ export default class Header extends React.Component {
                   <div className="site-branding">
                     {_.get(this.props, 'pageContext.site.siteMetadata.header.logo_img') && 
                     <p className="site-logo">
-                      <Link to={safePrefix('/')}><img src={safePrefix(_.get(this.props, 'pageContext.site.siteMetadata.header.logo_img'))}
+                      <Link to="https://peachfinance.com"><img src={safePrefix(_.get(this.props, 'pageContext.site.siteMetadata.header.logo_img'))}
                           alt="Logo" /></Link>
                     </p>
                     }
