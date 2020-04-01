@@ -41,6 +41,6 @@ Peach automatically recalculates and/or re-amortizes in real time, allowing cust
 
 Many of these features can be enabled in Peach’s white-label borrower portal as self-service actions for borrowers. Giving borrowers the ability to modify loans on their own gives them control and eases their burden in difficult times. This can significantly lower the load on customer care and collections teams, allowing them to focus on the most difficult cases.
 
-In our next post, we address the challenge of keeping call centers operational during a crisis and how lenders can shift quickly to remote-work operations for loan servicing.
+In our [next post](https://blog.peachfinance.com/posts/covid-19-part-2-how-to-prepare-your-servicing-operation-for-a-post-pandemic-world/), we address the challenge of keeping call centers operational during a crisis and how lenders can shift quickly to remote-work operations for loan servicing.
 
 If you want more flexible ways to accommodate borrowers’ financial hardship, please email us at [info@peachfinance.com](mailto:info@peachfinance.com)
