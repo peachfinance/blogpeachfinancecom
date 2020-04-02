@@ -12,19 +12,20 @@ template: post
 ---
 ### Helping Borrowers Through Hard Times
 
-The COVID-19 public health crisis has created unprecedented challenges for borrowers and lenders alike. This post focuses on how lenders can leverage Peach’s solution to help borrowers in times of emergency and financial hardship.
+The COVID-19 public health crisis has created unprecedented challenges for borrowers, lenders and services. This post focuses on how lenders and servicers can leverage Peach’s solutions to help borrowers in times of emergency and financial hardship.
 
 ### What Borrowers Need
 
-The full economic impact of COVID-19 on the economy is uncertain. But in the past few weeks, millions of workers have lost their jobs and small businesses are running out of capital. The government is racing to send checks to households, extend [loans to small businesses](https://www.inc.com/brit-morse/sba-loans-coronavirus-stimulus-package-cares-act.html), and encourage banks to start offering [responsible small dollar loans](https://news.bloomberglaw.com/banking-law/bank-regulators-urge-small-dollar-lending-in-covid-19-crisis) to consumers.
+The full impact of COVID-19 on the economy is uncertain. But in the past few weeks, millions of workers have lost their jobs and small businesses are running out of capital. The federal government is racing to send checks to households, extend [loans to small businesses](https://www.inc.com/brit-morse/sba-loans-coronavirus-stimulus-package-cares-act.html), and encourage banks to start offering [responsible small dollar loans](https://news.bloomberglaw.com/banking-law/bank-regulators-urge-small-dollar-lending-in-covid-19-crisis) to consumers. Federal and state governments are encouraging lenders to offer flexible accommodations to borrowers impacted by COVID-19.
 
-As economic conditions deteriorate and borrower delinquencies increase, lenders need powerful tools to provide borrowers with flexible payment plans and loan modification options.
 
-Most legacy systems are too rigid to accommodate custom hardship programs, or they require significant manual work by back office personnel. This is costly and does not scale. We built Peach to provide greater flexibility. With Peach, you can deploy a wide range of tools to respond to borrower hardship, benefiting both borrowers and lenders.
+As economic conditions deteriorate and borrower delinquencies increase, lenders need powerful tools to provide borrowers with flexible payment plans and loan modification options. 
+
+Most legacy servicing systems are too rigid to accommodate custom hardship programs, or they require significant manual work by back office personnel. This is costly and does not scale. We built Peach to provide greater flexibility. With Peach, you can deploy a wide range of tools to respond to borrower hardship, benefiting both borrowers and lenders.
 
 ### What Peach Enables
 
-Peach’s solution gives lenders various ways to handle hardships and loan modifications, including the ability to:
+Peach’s solution gives lenders and servicers various ways to handle hardships and loan modifications, including the ability to:
 
 1. Defer due dates to a future date, either within an existing loan term or with an extended term.
 2. Lower interest rates and suspend late fees.
@@ -34,6 +35,7 @@ Peach’s solution gives lenders various ways to handle hardships and loan modif
 6. Allow borrowers to prepay future recurring payments.
 7. Offer settlement plans to prevent charge-offs.
 8. Automatically execute a natural disaster relief plan according to lender specifications.
+9. Report loans as current to credit bureaus if the consumer fulfills the terms of the accommodation.
 
 Peach automatically recalculates and/or re-amortizes in real time, allowing customer care agents to go over revised numbers and find the best solution for the borrower. There’s no custom code required.
 
