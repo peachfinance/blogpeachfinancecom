@@ -12,7 +12,7 @@ template: post
 ---
 ### Helping Borrowers Through Hard Times
 
-The COVID-19 public health crisis has created unprecedented challenges for borrowers, lenders and services. This post focuses on how lenders and servicers can leverage Peach’s solutions to help borrowers in times of emergency and financial hardship.
+The COVID-19 public health crisis has created unprecedented challenges for borrowers, lenders and servicers. This post focuses on how lenders and servicers can leverage Peach’s solutions to help borrowers in times of emergency and financial hardship.
 
 ### What Borrowers Need
 
