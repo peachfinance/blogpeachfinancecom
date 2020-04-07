@@ -21,7 +21,7 @@ Shara brings keen insight into lending regulation, technology, payments and priv
 We couldn’t be more excited to welcome Shara to the Peach team!
 
 ___
-About [Shara](https://www.linkedin.com/in/shara-chang-20b27b16/):
+About [Shara Chang](https://www.linkedin.com/in/shara-chang-20b27b16/):
 
 Shara brings 10+ years of experience in financial services and consumer protection law, having advised leading tech companies, fintechs and banks on product development, risk management, regulatory compliance and enforcement. Before joining Peach, Shara led a team of privacy lawyers at Facebook that advised on global payments, research and integrity initiatives. Shara was the first and lead Product Counsel at San Francisco-based fintech Affirm, and worked in private practice at Buckley LLP and at Cleary Gottlieb. She has also held leadership roles in the American Bar Association’s Banking Law and Consumer Financial Services Committees.
 
