@@ -7,9 +7,7 @@ excerpt: >-
   and scale our lending and servicing systems with compliance considerations at
   the forefront. Because one of our main value-adds for lenders is mitigating
   compliance risk, our own investment in legal and compliance personnel is
-  critically important. Our solutions incorporate federal and state laws in a
-  way that keeps lenders compliant on all fronts while at the same time helping
-  borrowers maintain or improve their financial health.
+  critically important. 
 template: post
 ---
 We’re excited to announce that [Shara Chang](https://www.linkedin.com/in/shara-chang-20b27b16/) has joined [Peach](http://www.peachfinance.com) as our General Counsel & Chief Compliance Officer. 
