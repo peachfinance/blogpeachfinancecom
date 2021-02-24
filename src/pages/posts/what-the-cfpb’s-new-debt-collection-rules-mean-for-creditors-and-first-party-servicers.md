@@ -2,6 +2,13 @@
 title: What the CFPB’s new debt collection rules mean for creditors and
   first-party servicers
 date: 2021-02-24T04:40:41.252Z
+excerpt: The CFPB’s final rules on debt collection issued in October and
+  December 2020 have left creditors and servicers wondering what to do with
+  them. These rules were the result of a 7-year long process and represent the
+  first major rulemaking under the Fair Debt Collection Practices Act (FDCPA)
+  since the law’s inception over 40 years ago. Even with the rules finalized, as
+  described in greater detail below, incoming CFPB leadership has questioned
+  whether the final rules need to be further refined.
 template: post
 ---
 The CFPB’s final rules on debt collection issued in October and December 2020 have left creditors and servicers wondering what to do with them. These rules were the result of a 7-year long process and represent the first major rulemaking under the Fair Debt Collection Practices Act (FDCPA) since the law’s inception over 40 years ago. Even with the rules finalized, as described in greater detail below, incoming CFPB leadership has questioned whether the final rules need to be further refined.
