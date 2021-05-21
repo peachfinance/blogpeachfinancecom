@@ -1,7 +1,7 @@
 ---
 title: "Fintechs - Buy or Build? "
 date: 2021-05-21T05:11:04.432Z
-thumb_img_path: /images/2253657555_9306374c9f_c.jpg
+thumb_img_path: ""
 template: post
 ---
 At [Peach](http://www.peachfinance.com), we work with many early-stage fintechs looking to launch new lending products. A common question they face is whether to buy a piece of the lending technology stack or build it in-house. 
